@@ -65,7 +65,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "nikita.simonov@uam.es"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  #office_hours = """
+  office_hours = """
   Monday 10:00 to 13:00<br>
   Wednesday 09:00 to 10:00<br>
   Otherwise email to book an appointment
