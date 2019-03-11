@@ -9,13 +9,13 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "academic"
+theme = ""
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -66,10 +66,10 @@ enableGitInfo = false
   email = "nikita.simonov@uam.es"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
+  #Monday 10:00 to 13:00<br>
+  #Wednesday 09:00 to 10:00<br>
+  #Otherwise email to book an appointment
+  #"""
   #phone = "888 888 88 88"
   #skype = "echo123"
   #telegram = ""
@@ -119,14 +119,14 @@ enableGitInfo = false
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  # sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  # twitter = ""
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  # logo = ""
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -152,7 +152,7 @@ enableGitInfo = false
   #     Enable global source code highlighting?  If false, you can
   #     override it for a particular page in that page's preamble.
   #
-  #     Example: highlight = true
+  #      Example: highlight = true
   #
   #   highlight_languages
   #     Add support for highlighting additional languages. Support for
